@@ -1,7 +1,7 @@
 # Esther O'Keefe 
 
 Hiya! 👋 I'm Esther. I'm a university dropout software and 
-electronics engineer with a keen interest in strictly-regulated 
+firmware engineer with a keen interest in strictly-regulated 
 environments, be they constrained by performance, safety, finance,
 legislation, whatever. If it *needs* to work, I'm interested.
 
