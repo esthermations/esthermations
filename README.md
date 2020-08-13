@@ -9,8 +9,7 @@ I'm interested.
 I've spent a bunch of time learning various programming languages,
 many of which aren't "practical" but which give me a unique
 perspective on programming itself. I'm a big fan of readability
-and *obvious* code, so I'm a fan of languages like Ada and Cobol,
-and am willing to get into arguments with functional programming
-people about what is wrong with them. 😇
+and *obvious* code, and like to think of programing as a human
+communication activity.
 
-Erm, okay. That is me, as relates to code. Have a lovely day! 
+That is me, as relates to code. Have a lovely day! 
