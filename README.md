@@ -12,5 +12,7 @@ as a means of human communication, and write code to be *read*, not
 just run. To that end, some of my favourite languages lately are 
 Ada and Cobol. 😇
 
-🧳 I'm currently looking for work! If you're interested, please send 
-me an email to esthermations at gmail. Have a lovely day! 
+🧳 I'm currently looking for work! If you're interested, my contact 
+details are available on my 
+[LinkedIn](https://www.linkedin.com/in/esthermations). 
+Have a lovely day! 
