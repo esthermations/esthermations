@@ -13,6 +13,5 @@ just run. To that end, some of my favourite languages lately are
 Ada and Cobol. 😇
 
 🧳 I'm currently looking for work! If you're interested, my contact 
-details are available on my 
-[LinkedIn](https://www.linkedin.com/in/esthermations). 
+details are available on my [website](https://esther.okeefe.lgbt). 
 Have a lovely day! 
