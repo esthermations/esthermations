@@ -8,8 +8,9 @@ I'm interested.
 
 I've spent a bunch of time learning various programming languages,
 many of which aren't "practical" but which give me a unique
-perspective on programming itself. I'm a big fan of readability
-and *obvious* code, and like to think of programing as a human
-communication activity.
+perspective on programming itself. I like to think of programming
+as a means of human communication, and write code to be *read*, not
+just run. To that end, some of my favourite languages lately are 
+Ada and Cobol.
 
 That is me, as relates to code. Have a lovely day! 
