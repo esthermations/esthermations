@@ -1,17 +1,17 @@
 # Esther O'Keefe 
 
 Hiya! 👋 I'm Esther. I'm a university dropout software and 
-firmware engineer with a keen interest in strictly-regulated 
-environments, be they constrained by performance, safety, finance,
-legislation, whatever. If it *needs* to work, I'm interested.
+firmware engineer with a keen interest in programming close to the metal, 
+especially on systems which are performance- or safety-critical. 
+If it *needs* to work, and work fast enough, I'm interested.
 
-I've spent a bunch of time learning various programming languages,
-many of which aren't "practical" but which give me a unique
-perspective on programming itself. I like to think of programming
-as a means of human communication, and write code to be *read*, not
-just run. To that end, some of my favourite languages lately are 
-Ada and Cobol. 😇
+Besides uni projects I've been plugging away at [cargame-ada](https://github.com/esthermations/cargame-ada),
+a simple 3D game written in Ada. It's largely been a testbed for me to try 
+different designs for game engines, and test their performance and how much 
+I like their code legibility.
+
+My favourite languages are Ada, C, and C++. In that order 😁
 
 🧳 I'm currently looking for work! If you're interested, my contact 
-details are available on my [website](https://esther.okeefe.lgbt). 
-Have a lovely day! 
+details and CV are available on my [website](https://esther.okeefe.lgbt). 
+Have a lovely day!
