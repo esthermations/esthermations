@@ -13,3 +13,5 @@ year or so. I'd love to have an excuse to learn other languages, too! 😁
 I'm currently very unemployed. If think I may be a useful junior to have around,
 my contact details and CV are available on my
 [website](https://esther.okeefe.lgbt). Have a lovely day!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthermations&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
