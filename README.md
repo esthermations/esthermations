@@ -1,14 +1,11 @@
 # Esther O'Keefe 
 
-Hiya! 👋 I'm Esther. I'm a uni dropout software engineer with a keen interest in
-programming close to the metal, especially on systems which are performance- or
-safety-critical. Whatever it is I'm working on, I like to dig one level deeper
-to see what makes it all tick, paying close attention to how good design can
-reduce human error.
+Hiya! 👋 I'm Esther. I'm a uni dropout software person trying her darndest to
+specialise in computer graphics and game renderers.
 
-I'm a language person too! I studied Japanese 🇯🇵 for three years at uni and
-I've been learning Portuguese 🇵🇹 and Latin 🇻🇦 in my spare time for the last
-year or so. I'd love to have an excuse to learn other languages, too! 😁
+Lately I've been [streaming on Twitch](https://twitch.tv/esthermations)! I
+really enjoy explaining what I'm working on, helping others learn to code and
+just providing a relaxed environment.
 
 I'm currently very unemployed. If think I may be a useful junior to have around,
 my contact details and CV are available on my
