@@ -1,7 +1,7 @@
 # Esther O'Keefe 
 
 Hiya! 👋 I'm Esther. I'm a uni dropout software person trying her darndest to
-specialise in computer graphics and game renderers.
+specialise in high-performance systems.
 
 Lately I've been [streaming on Twitch](https://twitch.tv/esthermations)! I
 really enjoy explaining what I'm working on, helping others learn to code and
