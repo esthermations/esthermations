@@ -19,5 +19,3 @@
  * 🇻🇦 Latīnē loquor!
  * 📚 I study Psychology!
  * 💝 I love my friends!!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthermations&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
