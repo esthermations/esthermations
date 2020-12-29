@@ -1,6 +1,4 @@
-# Esther O'Keefe 
-
-My middle name is Frances. 🙂
+# Esther O'Keefe
 
 ## Programmer
 
