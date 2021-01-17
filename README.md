@@ -6,18 +6,18 @@
 ![](https://img.shields.io/badge/-C-555555)
 ![](https://img.shields.io/badge/-Vulkan-AA2222)
 
-## Programmer
+## Person
 
- * 🙋‍♀️ Software Engineer
- * 👾 Game Engine Programmer
- * ⚙️ Lover of nitty-gritty computer details
+ * 🙋‍♀️ Person Whomst Writes Code
+ * 👾 Person Whomst Makes Game Engines
+ * ⚙️ Person Whomst Reads CPU Architecture Manuals
+ 
+## Very person!
 
-## Human person!
-
- * 🎥 [I stream on Twitch](https://twitch.tv/esthermations)!
- * 🇵🇹 Falo Português!
- * 🇻🇦 Latīnē loquor!
- * 📚 I study Psychology!
- * 💝 I love my friends!!
-
-Nice to meet you 😊
+ * 🎥 [Person Whomst Streams On Twitch](https://twitch.tv/esthermations)!
+ * 🇵🇹 Pessoa Que Fala Português
+ * 🇻🇦 Homō Quī Latīnē Loquitur
+ * 📚 Person Whomst Studies Psychology
+ * 💝 Person Whomst Loves Her Friends!!
+ 
+Person Whomst Is Pleased To Make Your Acquaintance 😊
