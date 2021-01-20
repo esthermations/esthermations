@@ -11,7 +11,7 @@ Strange human-programmer hybrid. I'm not the best at this stuff but I try to enj
 
 ## Person
 
- * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)!
+ * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)
  * 🇵🇹 Falante de português
  * 🇻🇦 Locūtrīx linguae latīnae
  * 📚 Psychology student
