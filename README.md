@@ -10,9 +10,9 @@
 Strange human-programmer hybrid. I'm not the best at this stuff but I try to enjoy myself.
 
 ## Person
-
+ * 🌳 Peasant girl
  * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)
  * 🇵🇹 Falante de português
  * 🇻🇦 Locūtrīx linguae latīnae
  * 📚 Psychology student
- * 🌳 Peasant girl
+ 
