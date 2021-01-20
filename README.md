@@ -7,18 +7,12 @@
 ![](https://img.shields.io/badge/-C-555555)
 ![](https://img.shields.io/badge/-Vulkan-AA2222)
 
+Strange human-programmer hybrid. I'm not the best at this stuff but I try to enjoy myself.
+
 ## Person
 
- * 🙋‍♀️ Person Whomst Writes Code
- * 👾 Person Whomst Makes Game Engines
- * ⚙️ Person Whomst Reads CPU Architecture Manuals
- 
-## Very person!
-
- * 🎥 [Person Whomst Streams On Twitch](https://twitch.tv/esthermations)!
- * 🇵🇹 Pessoa Que Fala Português
- * 🇻🇦 Homō Quī Latīnē Loquitur
- * 📚 Person Whomst Studies Psychology
- * 💝 Person Whomst Loves Her Friends!!
- 
-Person Whomst Is Pleased To Make Your Acquaintance 😊
+ * 🎥 [I stream on Twitch](https://twitch.tv/esthermations)!
+ * 🇵🇹 Falo português
+ * 🇻🇦 Latīnē loquor
+ * 📚 Psychology student
+ * 🌳 Peasant girl
