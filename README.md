@@ -11,8 +11,8 @@ Strange human-programmer hybrid. I'm not the best at this stuff but I try to enj
 
 ## Person
 
- * 🎥 [I stream on Twitch](https://twitch.tv/esthermations)!
- * 🇵🇹 Falo português
- * 🇻🇦 Latīnē loquor
+ * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)!
+ * 🇵🇹 Falante de português
+ * 🇻🇦 Locūtrīx linguae latīnae
  * 📚 Psychology student
  * 🌳 Peasant girl
