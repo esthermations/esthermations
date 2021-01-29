@@ -9,6 +9,8 @@
 
 Strange human-programmer hybrid. I'm not the best at this stuff but I try to enjoy myself.
 
+Scrībō, obiter, fābulam prō puellīs puerīsque, dē mundō vulgārī.... dracōnibusque! 😇🐲
+
 ## Person
  * 🌳 Peasant girl
  * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)
