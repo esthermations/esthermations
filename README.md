@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-C-555555)
 ![](https://img.shields.io/badge/-Vulkan-AA2222)
 
-Strange human-programmer hybrid. I'm not the best at this stuff but I try to enjoy myself.
+Language nerd, psychology person, programmer, various other agent nouns
 
 Scrībō, obiter, fābulam prō puellīs puerīsque, dē mundō vulgārī.... dracōnibusque! 😇🐲
 
