@@ -9,12 +9,12 @@
 
 Language nerd, psychology person, programmer, various other agent nouns
 
-Scrībō, obiter, fābulam prō puellīs puerīsque, dē mundō vulgārī.... dracōnibusque! 😇🐲
+Faciō quid possum prō accessibilitāte linguæ latīnæ.
 
 ## Person
  * 🌳 Peasant girl
  * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)
  * 🇵🇹 Falante de português
- * 🇻🇦 Locūtrīx linguae latīnae
+ * 🇻🇦 Locūtrīx linguæ latīnæ
  * 📚 Psychology student
  
