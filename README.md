@@ -3,14 +3,13 @@
 ![](https://img.shields.io/badge/🏺-Lingua%20Latīna-B57EDC)
 ![](https://img.shields.io/badge/🔐-Ada-02f88c)
 
-Language nerd, psychology person, programmer, various other agent nouns
+Language speaker, psychology studier, programmer, various other agent nouns
 
 Faciō quid possum prō accessibilitāte linguæ latīnæ.
 
 ## Person
  * 🌳 Peasant girl
+ * 🎮 Game developer
  * 🎥 [Friendly Twitch streamer](https://twitch.tv/esthermations)
  * 🇵🇹 Falante de português
- * 🇻🇦 Locūtrīx linguæ latīnæ
- * 📚 Psychology student
- 
+ * 🇻🇦 Locūtrīx linguæ latīnæ 
