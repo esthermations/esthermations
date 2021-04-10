@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/-C%2B%2B-f34b7d)
 ![](https://img.shields.io/badge/-OpenGL-5586A4)
 
-Theoretically normal girl who writes code. Falo português.
+Theoretically normal girl who writes code. I do game engines. Falo português.
 
 ## Myself in other places
  * 📸 [Instagram](https://instagram.com/estherhogsby)
