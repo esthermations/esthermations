@@ -7,7 +7,7 @@
 
 Coder bean, language dork. I like making sure stuff adheres to spec. Hello!
 
-I rarely do programming streams on 🎥 [Twitch](https://twitch.tv/esthermations).
+I do programming streams on 🎥 [Twitch](https://twitch.tv/esthermations) most Sundays.
 
 -  *"We pretend to write books for teenagers, so that we can understand them."* – Yanis Varoufakis
 -  *"There are very few new mistakes."* - Martyn Thomas
