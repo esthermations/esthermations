@@ -1,12 +1,16 @@
-# Esther O'Keefe
-![](https://img.shields.io/badge/🌈-LGBTQIA+-ffdae9)
-![](https://img.shields.io/badge/-Ada-00f591) 
-![](https://img.shields.io/badge/-C%2B%2B-f34b7d)
-![](https://img.shields.io/badge/-D-B03931)
+# 🌈 Esther O'Keefe
 
-Coder bean, language dork. I like fussing over bug-proneness and understandability. Hello!
+Coder bean, language dork. I do graphics and embedded sortsa things. Hello! 👋
 
-I do programming streams on 🎥 [Twitch](https://twitch.tv/esthermations) most Sundays.
+I'm really big on making complex things understandable, because my brain hurts.
 
--  *"We pretend to write books for teenagers, so that we can understand them."* – Yanis Varoufakis
--  *"There are very few new mistakes."* - Martyn Thomas
+I also have a 🎥 [Twitch stream](https://twitch.tv/esthermations), where I summon code and incant ancient languages. 
+
+Spērō ut quid quærās, inveniās. 😇
+
+
+
+
+----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esthermations&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
