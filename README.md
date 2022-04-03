@@ -1,15 +1,10 @@
 # 🌈 Esther O'Keefe
 
-Coder bean, language dork. I do graphics and embedded sortsa things. Hello! 👋
+Coder bean, language dork. I do graphics and game engines and embedded sortsa things. Hello! 👋
 
-I'm really big on making complex things understandable, because my brain hurts.
+I like to think of code as a human language which we use to talk to each other about data transformations.
 
-I also have a 🎥 [Twitch stream](https://twitch.tv/esthermations), where I summon code and incant ancient languages. 
-
-Spērō ut quid quærās, inveniās. 😇
-
-
-
+I'm generally big on making complex things understandable, because my brain generally hurts.
 
 ----
 
