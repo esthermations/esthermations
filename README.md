@@ -1,10 +1,8 @@
 # 🌈 Esther O'Keefe
 
-Coder bean, language dork. I do graphics and game engines and embedded sortsa things. Hello! 👋
+Hello, I am some sort of generalist programmer person who mostly works on graphics and knows a thing or two about safety-critical.
 
-I like to think of code as a human language which we use to talk to each other about data transformations.
-
-I'm generally big on making complex things understandable, because my brain generally hurts.
+In my list of repositories you will find game engines, different game engines, and yet more game engines, written in all sorts of languages using all sorts of rendering APIs.
 
 ----
 
