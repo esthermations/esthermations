@@ -1,6 +1,8 @@
 # 🌈 Esther O'Keefe
 
-Hello, I like graphics and embedded and know a thing or two about safety-critical. No more than two things, though. Nice to meet ya!
+Hello, I like graphics and embedded and know a thing or two about safety-critical. No more than two things, though. 
+
+Nice to meet ya!
 
 ----
 
