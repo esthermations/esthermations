@@ -1,8 +1,6 @@
 # 🌈 Esther O'Keefe
 
-Hello, I am some sort of generalist programmer person who mostly works on graphics and knows a thing or two about safety-critical.
-
-In my list of repositories you will find game engines, different game engines, and yet more game engines, written in all sorts of languages using all sorts of rendering APIs.
+Hello, I like graphics and embedded and know a thing or two about safety-critical. No more than two things, though. Nice to meet ya!
 
 ----
 
